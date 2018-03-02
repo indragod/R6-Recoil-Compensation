@@ -1,5 +1,4 @@
 # General R6-Recoil-Compensation v1.01
-
 &nbsp;
 
 R6 Recoil Compensation Macro in Lua
