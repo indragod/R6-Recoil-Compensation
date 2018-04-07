@@ -1,5 +1,5 @@
 # R6 General Recoil Compensation
-
+## Version 1.02
 The most simple and effective recoil macro for Logitech LGS enabled mice in Lua. This has been rigoriously tested since Operation Health through Chimera for most weapons (3400+ downloads from UC).
 
 ## Getting Started
@@ -46,8 +46,4 @@ Recoil compensating values can be customized and are represented by
 local xweapon
 local yweapon
 ```
-
-## Version 1.02
-
-
 
