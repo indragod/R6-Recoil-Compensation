@@ -18,7 +18,7 @@ The following presets have the tightest shot groupings for the selection of weap
 ar_preset
 ```
 Use this setting for the weapons below: 
-V308, F2 'FAMAS', SIG 552 Commando, C8-SFW, T-95 LSW, Type-89
+V308, F2 'FAMAS', SIG 552 Commando, AK-12, C8-SFW, T-95 LSW, Type-89, Scorpion EVO-3 A1
 
 ```
 fbi_preset
@@ -30,7 +30,7 @@ R4-C, 556xi, UMP45
 smg_preset
 ```
 Use this setting for the weapons below: 
-Spear .308, M762, L85A2, K1A, 416-C Carbine, 9mm-C1, MP5, MP5K, MP5SD, MPX, MP7, P90, 9x19VSN, T-5 SMG, M12
+Spear .308, M762, L85A2, K1A, 416-C Carbine, 9mm-C1, MP5, MP5K, MP5SD, MPX, MP7, P90, 9x19VSN, T-5 SMG, M12, FMG-9
 
 ### Button Customization
 
